@@ -8,6 +8,6 @@ Love what I make ! Hit the Like 👍 button and subscribe 💓 to my channel to 
 
 ## Resources :
 
-Video ▶️: [“Voice Control your Home Appliances” 🔊 | ⚡Build your own SMART ALEXA Device using ESP8266 🤖](https://youtu.be/McTZNUwFSv8)
-Instructable 🌐 : https://www.instructables.com/Alexa-Controlled-Smart-Light-Relay-Using-NodeMCU-E/
-Code 💻 : https://github.com/Jovian-Dsouza/EspAlexaSmartlight
+1. Video ▶️: [“Voice Control your Home Appliances” 🔊 | ⚡Build your own SMART ALEXA Device using ESP8266 🤖](https://youtu.be/McTZNUwFSv8)
+2. Instructable 🌐 : https://www.instructables.com/Alexa-Controlled-Smart-Light-Relay-Using-NodeMCU-E/
+3. Code 💻 : https://github.com/Jovian-Dsouza/EspAlexaSmartlight
